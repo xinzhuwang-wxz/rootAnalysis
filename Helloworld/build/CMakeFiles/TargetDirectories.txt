@@ -1,0 +1,4 @@
+/Users/physicsboy/Desktop/rootAnalysis/Helloworld/build/CMakeFiles/G__HelloWorld.dir
+/Users/physicsboy/Desktop/rootAnalysis/Helloworld/build/CMakeFiles/helloworld.dir
+/Users/physicsboy/Desktop/rootAnalysis/Helloworld/build/CMakeFiles/edit_cache.dir
+/Users/physicsboy/Desktop/rootAnalysis/Helloworld/build/CMakeFiles/rebuild_cache.dir

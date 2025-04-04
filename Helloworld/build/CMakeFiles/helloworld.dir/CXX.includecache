@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/physicsboy/Desktop/rootAnalysis/Helloworld/src/Helloworld.h
+
+/Users/physicsboy/Desktop/rootAnalysis/Helloworld/src/HelloworldLinkDef.h
+

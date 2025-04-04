@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/physicsboy/Desktop/rootAnalysis/Algorithms/inc/BaseAlgorithm.h
+Data.h
+/Users/physicsboy/Desktop/rootAnalysis/Algorithms/inc/Data.h
+
+/Users/physicsboy/Desktop/rootAnalysis/Algorithms/src/Algorithm.h
+BaseAlgorithm.h
+/Users/physicsboy/Desktop/rootAnalysis/Algorithms/src/BaseAlgorithm.h
+Data.h
+/Users/physicsboy/Desktop/rootAnalysis/Algorithms/src/Data.h
+TString.h
+/Users/physicsboy/Desktop/rootAnalysis/Algorithms/src/TString.h
+TH1D.h
+/Users/physicsboy/Desktop/rootAnalysis/Algorithms/src/TH1D.h
+
+/Users/physicsboy/Desktop/rootAnalysis/Data/src/Data.h
+TTree.h
+/Users/physicsboy/Desktop/rootAnalysis/Data/src/TTree.h
+TLorentzVector.h
+/Users/physicsboy/Desktop/rootAnalysis/Data/src/TLorentzVector.h
+
+/Users/physicsboy/Desktop/rootAnalysis/Loop/src/EventLoop.h
+vector
+-
+TString.h
+-
+TChain.h
+-
+Data.h
+/Users/physicsboy/Desktop/rootAnalysis/Loop/src/Data.h
+Algorithm.h
+/Users/physicsboy/Desktop/rootAnalysis/Loop/src/Algorithm.h
+
+/Users/physicsboy/Desktop/rootAnalysis/Loop/src/EventLoopLinkDef.h
+

@@ -1,0 +1,4 @@
+[ libHelloWorld.dylib ]
+# List of selected classes
+class HelloWorld
+header src/Helloworld.h

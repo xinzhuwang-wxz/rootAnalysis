@@ -1,0 +1,6 @@
+[ libLoop.dylib ]
+# List of selected classes
+class Algorithm
+class EventLoop
+header Algorithm.h
+header EventLoop.h
